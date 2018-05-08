@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
+    if (message.content === 'animepanzer') {
+    	message.reply('https://gyazo.com/0801c99720ce653da863a2ba1da443e5');
   	}
 });
 
