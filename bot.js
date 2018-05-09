@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'animepanzer') {
-    	message.reply('https://gyazo.com/0801c99720ce653da863a2ba1da443e5');
+    if (message.content === 'konatacool') {
+    	message.reply('https://gyazo.com/85e61d53ed7d0b16032a7cee1c09835d');
   	}
 });
 
